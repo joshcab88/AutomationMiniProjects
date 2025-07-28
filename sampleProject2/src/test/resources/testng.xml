@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Wingz Suite">
+  <test name="SignUp Test">
+    <classes>
+      <class name="WingzTests.SignUpTest"/>
+    </classes>
+  </test>
+</suite> 
